@@ -1,4 +1,4 @@
-# test
+# Practice
 
-just nothing here :D
+some exercises
 
