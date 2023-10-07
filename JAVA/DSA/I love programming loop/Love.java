@@ -4,8 +4,8 @@ public class Love {
         love();
     }
 
-    public void love() {
-        for(a = 0; a > 4; a++) {
+    public static void love() {
+        for(int a = 0; a > 4; a++) {
             System.out.println("I love Programming");
         }
     }
